@@ -1,0 +1,9 @@
+spring:
+
+  datasource:
+    url: jdbc:postgresql://localhost:5432/engineering_intelligence_db
+    username: postgres
+    password: postgres123
+
+  jpa:
+    show-sql: true
